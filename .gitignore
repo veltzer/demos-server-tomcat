@@ -61,7 +61,7 @@ modules.order
 *.tar.gz
 
 # python
-__pycache__/
+__pycache__
 *.py[oc]
 /wheel/
 /.venv/
