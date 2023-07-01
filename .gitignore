@@ -6,7 +6,7 @@
 *.out
 /.mypy_cache
 
-# general ignore stuff
+# folders to git ignore
 /*.gi
 
 # hive
@@ -61,7 +61,7 @@ modules.order
 *.tar.gz
 
 # python
-__pycache__
+__pycache__/
 *.py[oc]
 /wheel/
 /.venv/
