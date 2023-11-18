@@ -1,2 +1,8 @@
-name = "hezi-wpt"
-description_short = "Build testing server"
+name = "demos-tomcat"
+description_short = "Demos for the tomcat application engine"
+keywords = [
+    "tomcat",
+    "java",
+    "server",
+    "jee",
+]
