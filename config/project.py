@@ -1,3 +1,4 @@
+""" project definitions """
 name = "demos-tomcat"
 description_short = "Demos for the tomcat application engine"
 keywords = [
