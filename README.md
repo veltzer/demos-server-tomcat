@@ -16,6 +16,7 @@ version: 0.0.1
 
 ## build
 
+![build](https://github.com/veltzer/demos-tomcat/workflows/build/badge.svg)
 
 ## contact me
 
