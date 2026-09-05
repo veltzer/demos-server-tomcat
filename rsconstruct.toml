@@ -24,7 +24,6 @@ src_dirs = ["tera.templates"]
 
 [processor.shellcheck]
 src_dirs = ["client_side_cert"]
-args = ["--severity=error", "--shell=bash"]
 
 # ─── lua ─────────────────────────────────────────────────────────────────────
 
@@ -39,3 +38,9 @@ src_dirs = ["."]
 # lint the GitHub Actions workflow files with actionlint
 [processor.actionlint]
 src_dirs = [".github/workflows"]
+
+# ─── markdown ────────────────────────────────────────────────────────────────
+
+[processor.rumdl]
+src_dirs = ["client_side_cert"]
+src_files = ["README.md"]

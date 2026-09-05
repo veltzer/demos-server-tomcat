@@ -2,7 +2,7 @@
 
 rm -rf certs
 mkdir certs
-cd certs
+cd certs || exit 1
 # generate ca key
 # generate root certificate
 # openssl req -x509 -new -nodes -key ca.key -sha256 -days 1825 -out req.csr -subj "/C=IL/L=Holon/O=Meta/CN=veltzer.com" 
