@@ -1,5 +1,5 @@
 -- project definitions
-NAME = "demos-tomcat"
+NAME = "demos-server-tomcat"
 DESCRIPTION_SHORT = "Demos for the tomcat application engine"
 KEYWORDS = {
     "tomcat",

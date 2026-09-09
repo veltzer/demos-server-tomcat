@@ -1,11 +1,11 @@
 <!-- This file is generated. Do not edit it by hand: your changes will be
      lost on the next build. Edit the template it is rendered from, or the
      values that template reads, and build again. -->
-# *demos-tomcat* project by Mark Veltzer
+# *demos-server-tomcat* project by Mark Veltzer
 
 description: Demos for the tomcat application engine
 
-project website: https://veltzer.github.io/demos-tomcat
+project website: https://veltzer.github.io/demos-server-tomcat
 
 author: Mark Veltzer
 
@@ -15,11 +15,11 @@ version: 0.0.1
 
 ## github
 
-![License](https://img.shields.io/github/license/veltzer/demos-tomcat)
+![License](https://img.shields.io/github/license/veltzer/demos-server-tomcat)
 
 ## build
 
-![build](https://github.com/veltzer/demos-tomcat/workflows/build/badge.svg)
+![build](https://github.com/veltzer/demos-server-tomcat/workflows/build/badge.svg)
 
 ## contact me
 
