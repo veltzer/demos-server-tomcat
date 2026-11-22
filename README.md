@@ -5,7 +5,7 @@
 
 description: Demos for the tomcat application engine
 
-project website: https://veltzer.github.io/demos-server-tomcat
+project website: <https://veltzer.github.io/demos-server-tomcat>
 
 author: Mark Veltzer
 
