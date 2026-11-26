@@ -53,3 +53,8 @@ args = ["--offline", "--no-progress", "--persona=pedantic"]
 [processor.checker.rumdl]
 src_dirs = ["client_side_cert"]
 src_files = ["README.md"]
+
+# every lint suppression names a rule and says why (see the fleet's CLAUDE.md)
+[processor.checker.suppressions]
+src_dirs = [".github", "client_side_cert", "config"]
+src_files = [".yamllint.yaml", "README.md"]
